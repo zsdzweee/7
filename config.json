@@ -29,7 +29,7 @@
             "tls-fingerprint": null
         }
     ],
-    "print-time": 60,
+    "print-time": null,
     "retries": 50,
     "retry-pause": 5,
     "safe": false,
